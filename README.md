@@ -1,6 +1,6 @@
 # 📦 Sizer 🔍
 
-![Sizer Banner](./banner.png) *<-- Consider adding an illustrative banner image here for added appeal!*
+![SizerBanner](https://github.com/borankux/sizer/assets/19632179/427b19b9-5ea0-44a9-aa7c-8819435f17d8)
 
 Sizer is a powerful tool that 🔎 **scans your folders and sub-folders** to give you a clear overview of their sizes. It not only lists them, but also 🚀 **sorts them from the largest to the smallest**! Get a quick glance at where all that storage space is going!
 ![image](https://github.com/borankux/sizer/assets/19632179/c065ca03-054a-4c5c-aff5-fbcb2ce6e4dd)
