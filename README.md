@@ -3,6 +3,7 @@
 ![Sizer Banner](./banner.png) *<-- Consider adding an illustrative banner image here for added appeal!*
 
 Sizer is a powerful tool that 🔎 **scans your folders and sub-folders** to give you a clear overview of their sizes. It not only lists them, but also 🚀 **sorts them from the largest to the smallest**! Get a quick glance at where all that storage space is going!
+![image](https://github.com/borankux/sizer/assets/19632179/c065ca03-054a-4c5c-aff5-fbcb2ce6e4dd)
 
 ## 🚀 Features
 
@@ -11,11 +12,9 @@ Sizer is a powerful tool that 🔎 **scans your folders and sub-folders** to giv
 - 🔝 **Smart Sorting:** Automatically sorts the results from large to small, so you know where to start if you're trying to free up space.
 
 ## 🛠 Usage
-
-1. Clone the repository to your local machine.
-2. Navigate to the directory where you've cloned the project.
-3. Run the `sizer` tool.
-4. Voila! 🎉 Get a clear list of all your folders, sorted by size.
+1. Run `go install github.com@borankux/sizer` and it will be installed on your `GOPATH`
+2. Run the `sizer` tool.
+3. Voila! 🎉 Get a clear list of all your folders, sorted by size.
 
 ## 🤝 Contribute
 
